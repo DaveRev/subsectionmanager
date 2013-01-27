@@ -102,8 +102,8 @@
 		'Please delete the old Mediathek folder from your <code>extensions</code> folder.' =>
 		'Elimina la vecchia cartella Mediathek dalla cartella <code>extensions</code>.',
 
-		'Please fill out the form below.' =>
-		'Compila il modulo sottostante.',
+		'Please fill out the form below' =>
+		'Compila i campi sottostanti.',
 
 		'Please make sure that the Stage submodule is initialised and available at %s.' =>
 		'Per favore assicurati che il modulo mancante compaia all\'interno della cartella %s.',
@@ -200,6 +200,9 @@
 
 		'items' =>
 		'voci',
+
+		'Search existing items' =>
+		'Cerca tra le voci esistenti',
 
 		'no results' =>
 		'nessun risultato',
